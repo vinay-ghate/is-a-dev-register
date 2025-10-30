@@ -5,8 +5,6 @@
     "linkedin": "https://www.linkedin.com/in/vinay-ghate"
   },
   "records": {
-    "CNAME": "vinay-ghate.github.io",
-    "TXT": ["v=spf1 include:spf.improvmx.com ~all"],
-    "MX": ["mx1.improvmx.com", "mx2.improvmx.com"]
+    "CNAME": "vinay-ghate.github.io"
   }
 }
